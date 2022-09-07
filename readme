@@ -1,1 +1,3 @@
+This notebook basically tries to convert StyleGan and Clip models:
+  The generated images by StyleGan being converted to desired manipulation by adding CLIP loss to the total loss function  
 
